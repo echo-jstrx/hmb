@@ -35,4 +35,8 @@
 /* Show the menu when toggled */
 .showMenu {
     transform: translateY(0);
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    
 }
