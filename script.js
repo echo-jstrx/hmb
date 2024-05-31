@@ -21,4 +21,4 @@ window.addEventListener("DOMContentLoaded", (event) => {
     } else {
         alert ("Error! Menu not found");
     }
-}
+});
