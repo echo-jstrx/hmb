@@ -34,5 +34,5 @@
 
 /* Show the menu when toggled */
 .showMenu {
-    transform: translateY(0);
+/*     transform: translateY(0); */
 }
