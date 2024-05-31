@@ -19,7 +19,7 @@
 /* Style the menu */
 .menu {
     position: fixed;
-    transform: translateY(-100%);
+    transform: translateY(-110%);
     transition: transform 0.2s;
     top: 0;
     left: 0;
